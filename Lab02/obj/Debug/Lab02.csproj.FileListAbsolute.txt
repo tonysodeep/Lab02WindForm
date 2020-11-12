@@ -1,0 +1,10 @@
+C:\Users\hyngu\source\repos\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\hyngu\source\repos\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\hyngu\source\repos\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\hyngu\source\repos\Lab02\Lab02\obj\Debug\Lab02.pdb

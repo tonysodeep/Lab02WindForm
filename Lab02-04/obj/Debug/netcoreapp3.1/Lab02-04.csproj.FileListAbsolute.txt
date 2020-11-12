@@ -1,0 +1,15 @@
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.exe
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.deps.json
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.runtimeconfig.json
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.runtimeconfig.dev.json
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.dll
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\bin\Debug\netcoreapp3.1\Lab02-04.pdb
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.csprojAssemblyReference.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02_04.Form1.resources
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.csproj.GenerateResource.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.AssemblyInfoInputs.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.AssemblyInfo.cs
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.csproj.CoreCompileInputs.cache
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.dll
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.pdb
+C:\Users\hyngu\source\repos\Lab02\Lab02-04\obj\Debug\netcoreapp3.1\Lab02-04.genruntimeconfig.cache
